@@ -1,0 +1,10 @@
+pkg install git && git clone https://github.com/thuanht567/vss.git && clear && cd vss && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cdpkg install git && git clone https://github.com/thuanht567/vss.git && clear && cd vss && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd
+
+
+
+DNS 203.113.131.6
+
+
+com.termux
+
+tun
